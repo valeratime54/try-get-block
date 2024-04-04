@@ -1,6 +1,6 @@
 {
     "name": "try-get-block",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "A block tools set for working with Web3 and Ethereum smart contracts.",
     "main": "index.js",
     "scripts": {
